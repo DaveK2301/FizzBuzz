@@ -1,2 +1,2 @@
 # FizzBuzz
-Prelimnary Coding Test for Engineered Software 
+Preliminary Coding Test for Engineered Software 
